@@ -1,0 +1,1 @@
+Allows creation of custom serverside achievements in Garry's Mod. Includes support for LUA or Particle effects and a sound when achievement is earned. See Readme for installation and coding instructions
